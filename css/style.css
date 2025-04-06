@@ -1,0 +1,58 @@
+.name {
+    color: #262a76;
+    font-family: futura;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 24px;
+    }
+      
+    .description {
+    color: #000000;
+    font-family: futura;
+    font-style: italic;
+    font-size: 18px;
+    }
+
+    .title {
+    color: #218eae;
+    font-family: futura;
+    font-style: bold;
+    font-size: 58px;
+    padding-left: 64px;
+    }
+      
+    /*green color: #00A86B*/
+    /*periwinkle 1: 2369F7*/
+    /*name color: 262a76*/
+    /*assignment color: 3257a8*/
+    /*html title purple: 8d6fd1*/
+    /*orange 2: ED7014*/
+
+    ._html {
+    color: #3862bc; 
+    font-family: futura;
+    font-weight: bold;
+    font-size: 40px;
+    padding-bottom: 36px;
+    }
+
+    .css_ {
+    color: #3862bc;
+    font-family: futura;
+    font-weight: bold;
+    font-size: 40px;
+    padding-bottom: 36px;
+    }
+
+    a, u {
+    text-decoration: none;
+    }
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        padding-top: 34px;
+        padding-left: 30px;
+        padding-bottom: 48px;
+      }
